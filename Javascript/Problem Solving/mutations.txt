@@ -1,0 +1,16 @@
+/*Return true if the string in the first element of the array contains all of the letters of the string in the second element of the array*/
+
+function mutation(arr) {
+  //lowercase the strings to compare them
+  var str1 = arr[0].toLowerCase(); var str2 = arr[1].toLowerCase();
+  // read all str2 characters
+  for (var i = 0; i < str2.length; i++)
+  {
+    /* if a char returns a negative position it means the character isn't on str1 so return false */ 
+    if(str1.indexOf(str2[i]) < 0) return false;
+  }
+  /* if the function reach this point we can assume that all the characters from str2 are in str1*/
+  return true;
+}
+
+mutation(["hello", "hey"]);

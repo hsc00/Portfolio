@@ -1,0 +1,4 @@
+C:\Users\Aluno.C27-PC12.000\AppData\Local\Temporary Projects\Ficha3_5\bin\Debug\Ficha3_5.exe
+C:\Users\Aluno.C27-PC12.000\AppData\Local\Temporary Projects\Ficha3_5\bin\Debug\Ficha3_5.pdb
+C:\Users\Aluno.C27-PC12.000\AppData\Local\Temporary Projects\Ficha3_5\obj\x86\Debug\Ficha3_5.exe
+C:\Users\Aluno.C27-PC12.000\AppData\Local\Temporary Projects\Ficha3_5\obj\x86\Debug\Ficha3_5.pdb
