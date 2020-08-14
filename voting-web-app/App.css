@@ -1,0 +1,44 @@
+*{
+  margin: 20;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  color: #222;
+  font-size: 24px; 
+  font-family: sans-serif;
+}
+
+h1 {
+  margin: 30px;
+}
+.languages {
+  height: 400px;
+  width: 600px;
+  margin: 10px auto;
+  display: flex;
+  flex-direction: column;
+}
+.language {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 40px;
+  background-color: blanchedalmond;
+  font-size: 34px; 
+  margin: 2px;
+}
+.language button {
+  color: green;
+  background-color: #0000;
+  border: none;
+  font-size: 30px;
+  outline: none;
+  cursor: pointer;
+}
+
+h2{
+  font-size: 22px; 
+}
