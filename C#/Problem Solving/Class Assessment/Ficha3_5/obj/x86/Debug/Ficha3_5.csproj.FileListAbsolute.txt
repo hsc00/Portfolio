@@ -1,0 +1,18 @@
+F:\Ficha_3_M3\Ficha3_5\Ficha3_5\bin\Debug\Ficha3_5.exe
+F:\Ficha_3_M3\Ficha3_5\Ficha3_5\bin\Debug\Ficha3_5.pdb
+F:\Ficha_3_M3\Ficha3_5\Ficha3_5\obj\x86\Debug\Ficha3_5.exe
+F:\Ficha_3_M3\Ficha3_5\Ficha3_5\obj\x86\Debug\Ficha3_5.pdb
+D:\Ficha_03_M3\Ficha3_5\Ficha3_5\obj\x86\Debug\Ficha3_5.exe
+D:\Ficha_03_M3\Ficha3_5\Ficha3_5\obj\x86\Debug\Ficha3_5.pdb
+C:\Users\Henrique\Desktop\drive-download-20200421T152717Z-001\Ficha_03_M3\Ficha3_5\Ficha3_5\bin\Debug\Ficha3_5.exe
+C:\Users\Henrique\Desktop\drive-download-20200421T152717Z-001\Ficha_03_M3\Ficha3_5\Ficha3_5\bin\Debug\Ficha3_5.pdb
+C:\Users\Henrique\Desktop\drive-download-20200421T152717Z-001\Ficha_03_M3\Ficha3_5\Ficha3_5\obj\x86\Debug\Ficha3_5.csprojAssemblyReference.cache
+C:\Users\Henrique\Desktop\drive-download-20200421T152717Z-001\Ficha_03_M3\Ficha3_5\Ficha3_5\obj\x86\Debug\Ficha3_5.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\drive-download-20200421T152717Z-001\Ficha_03_M3\Ficha3_5\Ficha3_5\obj\x86\Debug\Ficha3_5.exe
+C:\Users\Henrique\Desktop\drive-download-20200421T152717Z-001\Ficha_03_M3\Ficha3_5\Ficha3_5\obj\x86\Debug\Ficha3_5.pdb
+C:\Users\Henrique\Desktop\Prof\Projetos\C#\Problem Solving\Exe13\Ficha3_5\bin\Debug\Ficha3_5.exe
+C:\Users\Henrique\Desktop\Prof\Projetos\C#\Problem Solving\Exe13\Ficha3_5\bin\Debug\Ficha3_5.pdb
+C:\Users\Henrique\Desktop\Prof\Projetos\C#\Problem Solving\Exe13\Ficha3_5\obj\x86\Debug\Ficha3_5.csprojAssemblyReference.cache
+C:\Users\Henrique\Desktop\Prof\Projetos\C#\Problem Solving\Exe13\Ficha3_5\obj\x86\Debug\Ficha3_5.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\Prof\Projetos\C#\Problem Solving\Exe13\Ficha3_5\obj\x86\Debug\Ficha3_5.exe
+C:\Users\Henrique\Desktop\Prof\Projetos\C#\Problem Solving\Exe13\Ficha3_5\obj\x86\Debug\Ficha3_5.pdb

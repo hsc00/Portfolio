@@ -1,0 +1,32 @@
+var count = 0;
+
+//You will write a card counting function. It will receive a card parameter, which can be a number or a string,
+function cc(card) {
+
+  //and increment or decrement the global count variable according to the card's value. 
+  if(card <= 6 && card >= 2){
+
+    count += 1;
+  }
+
+  //count 0
+  else if(card >= 7 && card <= 9){}
+
+  else{
+
+    count -= 1;
+  }
+
+  //The function will then return a string with the current count and the string Bet if the count is positive, or Hold if the count is zero or negative. 
+  if(count > 0){
+
+    return count + " Bet";
+  }
+  else{
+
+    return count + " Hold";
+  }
+
+}
+
+cc(2); cc(3); cc(7); cc('K'); cc('A');

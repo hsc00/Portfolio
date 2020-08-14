@@ -1,0 +1,18 @@
+C:\Users\Aluno.C27-PC12.000\AppData\Local\Temporary Projects\Ficha1_5\bin\Debug\Ficha1_5.exe
+C:\Users\Aluno.C27-PC12.000\AppData\Local\Temporary Projects\Ficha1_5\bin\Debug\Ficha1_5.pdb
+C:\Users\Aluno.C27-PC12.000\AppData\Local\Temporary Projects\Ficha1_5\obj\x86\Debug\Ficha1_5.exe
+C:\Users\Aluno.C27-PC12.000\AppData\Local\Temporary Projects\Ficha1_5\obj\x86\Debug\Ficha1_5.pdb
+D:\Ficha_02_M3\Ficha1_5\Ficha1_5\obj\x86\Debug\Ficha1_5.exe
+D:\Ficha_02_M3\Ficha1_5\Ficha1_5\obj\x86\Debug\Ficha1_5.pdb
+C:\Users\Henrique\Desktop\drive-download-20200421T152717Z-001\Ficha_02_M3\Ficha1_5\Ficha1_5\bin\Debug\Ficha1_5.exe
+C:\Users\Henrique\Desktop\drive-download-20200421T152717Z-001\Ficha_02_M3\Ficha1_5\Ficha1_5\bin\Debug\Ficha1_5.pdb
+C:\Users\Henrique\Desktop\drive-download-20200421T152717Z-001\Ficha_02_M3\Ficha1_5\Ficha1_5\obj\x86\Debug\Ficha1_5.csprojAssemblyReference.cache
+C:\Users\Henrique\Desktop\drive-download-20200421T152717Z-001\Ficha_02_M3\Ficha1_5\Ficha1_5\obj\x86\Debug\Ficha1_5.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\drive-download-20200421T152717Z-001\Ficha_02_M3\Ficha1_5\Ficha1_5\obj\x86\Debug\Ficha1_5.exe
+C:\Users\Henrique\Desktop\drive-download-20200421T152717Z-001\Ficha_02_M3\Ficha1_5\Ficha1_5\obj\x86\Debug\Ficha1_5.pdb
+C:\Users\Henrique\Desktop\Prof\Projetos\C#\Problem Solving\Exe11\Ficha1_5\bin\Debug\Ficha1_5.exe
+C:\Users\Henrique\Desktop\Prof\Projetos\C#\Problem Solving\Exe11\Ficha1_5\bin\Debug\Ficha1_5.pdb
+C:\Users\Henrique\Desktop\Prof\Projetos\C#\Problem Solving\Exe11\Ficha1_5\obj\x86\Debug\Ficha1_5.csprojAssemblyReference.cache
+C:\Users\Henrique\Desktop\Prof\Projetos\C#\Problem Solving\Exe11\Ficha1_5\obj\x86\Debug\Ficha1_5.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\Prof\Projetos\C#\Problem Solving\Exe11\Ficha1_5\obj\x86\Debug\Ficha1_5.exe
+C:\Users\Henrique\Desktop\Prof\Projetos\C#\Problem Solving\Exe11\Ficha1_5\obj\x86\Debug\Ficha1_5.pdb
