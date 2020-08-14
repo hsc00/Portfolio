@@ -1,0 +1,11 @@
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+  }
+  render() {
+    return <div/>
+  }
+};
+/*This creates a faster initial page load because the rendered HTML is smaller 
+than the JavaScript code of the entire app */
+ReactDOMServer.renderToString(<App />);
